@@ -13,11 +13,6 @@ nav {
     align-items:center ;
     display: flex; 
     justify-content: space-between; 
-    align-items: center; 
-}
-nav img {
-    width: 150px; 
-    height: auto; 
 }
 
 nav ul {
@@ -52,21 +47,18 @@ nav a {
 }
 
 .button-list a:hover {
-    background-color: #ba8dd2; 
+    background-color: #7c33a3; 
 }
 .logo{
-    width: 90px;
+    width: 125px;
 }
 main{
     padding-top: 10px;
     width: 100%;
-    background:#fff;
     display: flex;
     justify-content: center;
 }
 #sobre_mi{
-  
-    background:#fff;
     width: 80%;
     display: flex;
 }
@@ -93,7 +85,6 @@ font-size: 18px;
 .derecha{
     justify-content: center;
     width: 35%;
-   /* background: #333;*/
     display: flex;
     padding-top: 15px;
     justify-content: center;
